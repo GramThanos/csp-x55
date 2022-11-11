@@ -1,5 +1,7 @@
 # csp-x55
-Content-Security-Policy XSS
+XSS by bypassing Content-Security-Policy through CDN.
+
+
 
 Example usage using `alert('xss');` in base64 `YWxlcnQoJ3hzcycpOw==`
 ```html
